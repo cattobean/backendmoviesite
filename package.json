@@ -16,7 +16,6 @@
     "nitropack": "latest",
     "prettier": "^3.5.3",
     "prisma": "^7.0.1"
-    "magicast": "^0.3.5"
   },
   "dependencies": {
     "@prisma/adapter-pg": "^7.0.1",
@@ -30,6 +29,5 @@
     "tweetnacl": "^1.0.3",
     "whatwg-url": "^14.2.0",
     "zod": "^3.24.2"
-    "magicast": "^0.3.5"
   }
 }
